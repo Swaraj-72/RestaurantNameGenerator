@@ -1,0 +1,10 @@
+__pycache__
+
+.env
+
+api_keys.txt
+langchain_tutorial.py
+
+env/
+langchain_tutorial/
+
